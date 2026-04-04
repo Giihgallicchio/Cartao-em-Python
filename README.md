@@ -52,16 +52,18 @@ O sistema foi desenvolvido com foco em lógica de programação, validação de 
 
 O sistema roda no terminal e permite interação com o usuário através de um menu de opções.
 
+
+```md
 Exemplo de fluxo:
 
-```
+```bash
 ==== SISTEMA BANCÁRIO ====
 
 [1] Depositar
 [2] Sacar
 [3] Visualizar Cartão
 [4] Sair
-```
+
 
 
 ## | Destaque
