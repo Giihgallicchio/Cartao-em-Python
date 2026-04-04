@@ -54,12 +54,14 @@ O sistema roda no terminal e permite interação com o usuário através de um m
 
 Exemplo de fluxo:
 
-`==== SISTEMA BANCÁRIO ====`
+```
+==== SISTEMA BANCÁRIO ====
 
-`[1] Depositar
+[1] Depositar
 [2] Sacar
 [3] Visualizar Cartão
-[4] Sair`
+[4] Sair
+```
 
 
 ## | Destaque
