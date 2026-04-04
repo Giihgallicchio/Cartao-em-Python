@@ -56,10 +56,10 @@ Exemplo de fluxo:
 
 `==== SISTEMA BANCÁRIO ====`
 
-`[1] Depositar`
-`[2] Sacar`
-`[3] Visualizar Cartão`
-`[4] Sair`
+`[1] Depositar
+[2] Sacar
+[3] Visualizar Cartão
+[4] Sair`
 
 
 ## | Destaque
