@@ -53,12 +53,13 @@ O sistema foi desenvolvido com foco em lógica de programação, validação de 
 O sistema roda no terminal e permite interação com o usuário através de um menu de opções.
 
 Exemplo de fluxo:
-==== SISTEMA BANCÁRIO ====
 
-[1] Depositar
+`==== SISTEMA BANCÁRIO ====`
+
+`[1] Depositar
 [2] Sacar
 [3] Visualizar Cartão
-[4] Sair
+[4] Sair`
 
 
 ## | Destaque
